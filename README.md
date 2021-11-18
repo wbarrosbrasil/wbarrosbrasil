@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wbarrosbrasil
 - 👀 I’m interested in ??
-- 🌱 I’m currently learning NodeJS, Ruby, JS, Python
+- 🌱 I’m currently learning Ruby, JS, Python, Linux..
 - 💞️ I’m looking to collaborate on Ruby on Rails projects
 - 📫 Reach me in telegram@willianbarros
 
